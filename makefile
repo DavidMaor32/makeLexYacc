@@ -1,6 +1,6 @@
 # this nice makefile template was made by David Maor
 # HOW TO USE
-# 0. copy this template to the project directory(folder) with the lext and yacc files
+# 0. copy this template to the project directory(folder)
 # 1. create the lex file and yacc file
 # 2. in the terminal
 #	2.1 cd to the project directory(folder)
