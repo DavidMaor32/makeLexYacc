@@ -1,0 +1,6 @@
+/compiler
+/gram.l
+/gram.txt
+/gram.y
+/lex.yy.c
+/y.tab.c
